@@ -1,0 +1,11 @@
+button {
+    margin: 0 0.5rem;
+}
+
+.boton-click {
+    background-color: brown;
+}
+
+.boton-reiniciar {
+    background-color: darkgreen;
+}
